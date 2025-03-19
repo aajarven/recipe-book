@@ -9,3 +9,4 @@
 
 - Wash the apple
 - Slice the apple
+- Remove core and seeds from all slices
